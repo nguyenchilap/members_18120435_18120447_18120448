@@ -1,0 +1,23 @@
+:root{
+    --primary-color: #1221af;
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --header-height: 10vh;
+}
+
+/* Reset Css */
+*{
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
