@@ -99,6 +99,7 @@
 }
 
 .member__link-item{
+    min-width: 162px;
     padding: 16px;
     text-decoration: none;
     color: var(--text-color);
