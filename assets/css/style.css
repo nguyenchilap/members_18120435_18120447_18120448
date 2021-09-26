@@ -92,16 +92,26 @@
     font-weight: 600;
 }
 
-.members__name{
-    margin-top: 18px;
+.members__link{
+    margin-top: 16px;
     display: flex;
     justify-content: space-around;
 }
 
-.members__id{
-    margin-top: 8px;
-    display: flex;
-    justify-content: space-around;
+.member__link-item{
+    padding: 16px;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.member__link-item:hover{
+    color: var(--white-color);
+    background-color: #0f5094;
+    border-radius: 3px;
+}
+
+.member__id{
+    padding-top: 8px;
 }
 
 .members_img{
