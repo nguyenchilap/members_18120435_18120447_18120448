@@ -1,9 +1,10 @@
 :root{
-    --primary-color: #1221af;
+    --primary-color: #171010;
     --white-color: #fff;
     --black-color: #000;
     --text-color: #333;
     --header-height: 10vh;
+
 }
 
 /* Reset Css */
